@@ -9,6 +9,7 @@
 
 ## API 使用
 可用 postman(https://www.postman.com/) 先做測試
+如要變動 Json 請參考 https://www.npmjs.com/package/json-server-auth
 
 註冊 
 POST /register
