@@ -12,10 +12,12 @@
 
 註冊 
 POST /register
+```
 {
   "email": "",
   "password": ""
 }
+```
 
 回傳 201 為成功
 
