@@ -3,8 +3,8 @@
 
 ## Json Server 使用方法 
 
-1. npm install 
-2. npm install -g json-server
+1. npm install -g json-server
+2. npm install 
 3. json-server db.json -m ./node_modules/json-server-auth -r routes.json
 4. http://localhost:3000/ 頁面有出現即成功
 
