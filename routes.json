@@ -1,0 +1,5 @@
+{
+    "/posts*": "/660/posts$1",
+    "/comments*": "/660/comments$1",
+    "/author*": "/660/author$1"
+}
